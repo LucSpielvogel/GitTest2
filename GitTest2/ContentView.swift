@@ -19,7 +19,7 @@ struct ContentView: View {
 
             Text("Sichtbar")
             Text("HEYJOO")
-  
+            Text("MinhsText")
 
         }
         .padding()
