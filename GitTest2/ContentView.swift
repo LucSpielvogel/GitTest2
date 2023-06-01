@@ -20,6 +20,10 @@ struct ContentView: View {
             Text("Sichtbar")
             Text("HEYJOO")
             Text("MinhsText")
+            
+            Text("Lucs Text")
+            Text("Lucs Text Nr 2")
+  
 
         }
         .padding()
